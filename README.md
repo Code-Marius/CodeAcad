@@ -1,5 +1,5 @@
 # Simple Web Application
-
+Sveiki!
 This is a simple web application using [Python Flask](http://flask.pocoo.org/) and [MySQL](https://www.mysql.com/) database. 
 This is used in the demonstration of development of Ansible Playbooks.
   
