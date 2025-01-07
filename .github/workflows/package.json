@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A simple project to learn CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests defined\" && exit 0",
+    "build": "echo \"No build step defined\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
