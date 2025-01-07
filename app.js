@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 5000;
+const port = 6000;
 
 // Route for the home page
 app.get('/', (req, res) => {
